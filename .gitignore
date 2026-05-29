@@ -1,0 +1,12 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+~$*
+
+# Power BI cache
+*.pbix.bak
+
+# Python
+__pycache__/
+*.pyc
